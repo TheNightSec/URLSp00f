@@ -1,7 +1,6 @@
 # URLSp00f
-![Logo](https://user-images.githubusercontent.com/76558503/159753599-3c2b7c1a-5f0f-4f05-a781-6f531d03ac98.png)
-
-URLSp00f is written in bash for spoofing URL
+![L0G0](https://user-images.githubusercontent.com/76558503/159757611-47e044c6-90b4-4a4d-947e-1392fa2bbac6.png)
+URLSp00f is an Social-3ngineering Tool for spoofing URLs...
 
 
 
