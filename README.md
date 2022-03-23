@@ -1,6 +1,5 @@
 # URLSp00f
-https://i.imgur.com/N9akCaV.png
-
+(https://user-images.githubusercontent.com/76558503/159749849-1e1cfb5d-b139-4c86-b982-329e580c60b0.png)
 URLSp00f is written in bash for spoofing URL
 
 
