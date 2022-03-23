@@ -189,7 +189,7 @@ echo -e "${negro}
 █ ${blanco}URL SAVED IN THE FILE ${negro}█
 └════════════════════════════┘
 ┃
-└═>>>${verde} spoofing.txt
+└═>>>${verde} nightsec-out.txt
 "${blanco}
 }
 # ===============================================
@@ -201,5 +201,5 @@ Question
 Spoofing
 Save
 # ===============================================
-#     Modified by NS-R00T - NightSec ©2021
+#     Modified by NS-R00T - NightSec ©2022
 # ===============================================
