@@ -1,5 +1,6 @@
 # URLSp00f
-![preview](https://user-images.githubusercontent.com/76558503/159749849-1e1cfb5d-b139-4c86-b982-329e580c60b0.png)
+![Logo](https://user-images.githubusercontent.com/76558503/159753599-3c2b7c1a-5f0f-4f05-a781-6f531d03ac98.png)
+
 URLSp00f is written in bash for spoofing URL
 
 
@@ -9,7 +10,8 @@ URLSp00f is written in bash for spoofing URL
 ```bash
 # granting permissions
 chmod +x URLsp00f.sh
-
+```
+```bash
 # running it
 ./URLsp00f.sh
 ```
